@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+label_data.ipynb filter=lfs diff=lfs merge=lfs -text
+lfs/train_data.zip filter=lfs diff=lfs merge=lfs -text
+*normalised_train.zip filter=lfs diff=lfs merge=lfs -text
